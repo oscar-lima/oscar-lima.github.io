@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "M.Sc. Oscar Lima Carrion"
   avatar           : "oscar.png"
-  bio              : "Researcher at DFKI Bremen"
+  bio              : "Researcher @ DFKI Bremen"
   location         : "Bremen, Germany"
-  employer         : "DFKI Robotics Innovation Center, Bremen"
-  pubmed           : ""
+  employer         : "[DFKI Robotics Innovation Center](https://robotik.dfki-bremen.de/en/startpage.html)"
+  #pubmed           : ""
   googlescholar    : "https://scholar.google.pt/citations?user=NXFDfCkAAAAJ&hl=en"
   email            : "oscar.lima@dfki.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UCy86pWU53I7_pHQum_gdmaA?"
+  youtube          : "ozkrelo"
   wikipedia        :
 
 
