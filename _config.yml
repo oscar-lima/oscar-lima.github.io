@@ -84,13 +84,13 @@ author:
   avatar           : "oscar.png"
   bio              : "Researcher @ DFKI Bremen"
   location         : "Bremen, Germany"
-  employer         : "[DFKI Robotics Innovation Center](https://robotik.dfki-bremen.de/en/startpage.html)"
-  #pubmed           : ""
+  employer         : "DFKI Robotics Innovation Center"
+  pubmed           :
   googlescholar    : "https://scholar.google.pt/citations?user=NXFDfCkAAAAJ&hl=en"
   email            : "oscar.lima@dfki.de"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        : "https://bitbucket.org/ozkrelo"
+  researchgate     : "https://www.researchgate.net/profile/Oscar_Lima_Carrion"
+  uri              : "https://www.dfki.de/web/ueber-uns/mitarbeiter/person/osli01/"
+  bitbucket        : #"https://bitbucket.org/ozkrelo"
   codepen          :
   dribbble         :
   flickr           :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ozkrelo"
+  twitter          : # "ozkrelo"
   vine             :
   weibo            :
   xing             :
